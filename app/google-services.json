@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644518442313",
+    "project_id": "emo-music-e154a",
+    "storage_bucket": "emo-music-e154a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644518442313:android:a71a69d38aa06965c9d698",
+        "android_client_info": {
+          "package_name": "com.example.emomusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644518442313-4u93vhmi3mvtmg941hd2ra3hoolgrd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdP8mc-gXvAwuavBdsFB7OfDdRS0lWuEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644518442313-4u93vhmi3mvtmg941hd2ra3hoolgrd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
